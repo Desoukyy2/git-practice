@@ -1,3 +1,3 @@
 # robot.py
-speed = 5
+speed = 10
 print("Robot speed:", speed)
